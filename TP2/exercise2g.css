@@ -1,0 +1,12 @@
+.popup {
+  position: fixed;
+  top: 124px;
+  left: 124px;
+  width: 435px;
+  height: 435px;
+  z-index: 999;
+}
+
+.popup:hover {
+  color: orangered;
+}

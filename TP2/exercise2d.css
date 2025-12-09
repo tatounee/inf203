@@ -1,0 +1,23 @@
+#div_1 {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+#div_2 img {
+  float: left;
+  margin-right: 8px;
+}
+
+#div_3 {
+  background-color: dimgrey;
+  padding: 10px;
+}
+
+.popup {
+  position: absolute;
+  top: 116px;
+  left: 116px;
+  width: 455px;
+  height: 455px;
+  z-index: 999;
+}
